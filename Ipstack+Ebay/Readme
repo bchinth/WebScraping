@@ -1,0 +1,3 @@
+Retrieved and managed data from the iPstack API. Developed a program in Python that makes the API calls and stores data in MongoDB
+
+Applied practical web scraping techniques using Selenium, paired with data parsing using BeauƟfulSoup in Python to access to Automate Browser to Access eBay
