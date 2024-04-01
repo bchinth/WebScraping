@@ -1,0 +1,14 @@
+Nike Unisex Footwear Trends: A Web Scraping Data Analysis
+
+In an advanced analysis initiative, I utilized sophisticated web scraping techniques like Selenium and Beautiful Soap to collect and categorize data on Nike's unisex footwear into sale and non-sale segments.
+Utilizing a structured MySQL database, we applied meticulous data manipulation, wrangling and modeling to craft a high-quality dataset. 
+
+This dataset then served as the foundation for a Machine Learning (ML) project aimed at uncovering common themes within Nike product descriptions through an unsupervised ML model that 
+emphasized frequency over sequence. Our analysis revealed key themes that are crucial for enhancing Nike's marketing and product development strategies. 
+
+This data-driven approach not only provides valuable insights into Nike's product positioning but also pioneers the use of analytics in retail strategy optimization. 
+
+BACKGROUND 
+In the fast-paced and highly competitive athletic footwear market, understanding customer preferences and market trends is paramount for a leading brand like Nike. 
+The brand is renowned for its vast range of unisex shoes, catering to a wide spectrum of sports and lifestyle choices. Keeping abreast of market demands and ensuring the alignment of 
+product offerings with consumer expectations is a critical business imperative. That's the reason why we choose to select an e-commerce website to delve deeper and understand the trends
