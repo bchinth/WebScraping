@@ -1,0 +1,2 @@
+Developed a Python script that scrapes the first 250 item listings, saves the HTML pages of these item detail pages to disk, and then, in a separate process, reads these HTML files from disk
+to extract and display specific details about each listing.
